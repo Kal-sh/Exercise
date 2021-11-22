@@ -65,11 +65,11 @@ namespace ControlStatments
             calculate.Calc();
             */
 
-            
+            /*
             //* Even Number 0 to 100
             EvenNumbers evenNumbers = new EvenNumbers();
             evenNumbers.evenNum();
-            
+            */
         }
     }
 }
