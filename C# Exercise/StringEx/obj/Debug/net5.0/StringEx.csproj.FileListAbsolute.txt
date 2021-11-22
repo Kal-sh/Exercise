@@ -1,0 +1,16 @@
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\bin\Debug\net5.0\StringEx.exe
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\bin\Debug\net5.0\StringEx.deps.json
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\bin\Debug\net5.0\StringEx.runtimeconfig.json
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\bin\Debug\net5.0\StringEx.runtimeconfig.dev.json
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\bin\Debug\net5.0\StringEx.dll
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\bin\Debug\net5.0\ref\StringEx.dll
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\bin\Debug\net5.0\StringEx.pdb
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\obj\Debug\net5.0\StringEx.csproj.AssemblyReference.cache
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\obj\Debug\net5.0\StringEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\obj\Debug\net5.0\StringEx.AssemblyInfoInputs.cache
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\obj\Debug\net5.0\StringEx.AssemblyInfo.cs
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\obj\Debug\net5.0\StringEx.csproj.CoreCompileInputs.cache
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\obj\Debug\net5.0\StringEx.dll
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\obj\Debug\net5.0\ref\StringEx.dll
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\obj\Debug\net5.0\StringEx.pdb
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\StringEx\obj\Debug\net5.0\StringEx.genruntimeconfig.cache
