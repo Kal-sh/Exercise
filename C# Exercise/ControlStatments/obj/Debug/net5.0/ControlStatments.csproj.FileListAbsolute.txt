@@ -1,0 +1,16 @@
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\bin\Debug\net5.0\ControlStatments.exe
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\bin\Debug\net5.0\ControlStatments.deps.json
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\bin\Debug\net5.0\ControlStatments.runtimeconfig.json
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\bin\Debug\net5.0\ControlStatments.runtimeconfig.dev.json
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\bin\Debug\net5.0\ControlStatments.dll
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\bin\Debug\net5.0\ref\ControlStatments.dll
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\bin\Debug\net5.0\ControlStatments.pdb
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\obj\Debug\net5.0\ControlStatments.csproj.AssemblyReference.cache
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\obj\Debug\net5.0\ControlStatments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\obj\Debug\net5.0\ControlStatments.AssemblyInfoInputs.cache
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\obj\Debug\net5.0\ControlStatments.AssemblyInfo.cs
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\obj\Debug\net5.0\ControlStatments.csproj.CoreCompileInputs.cache
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\obj\Debug\net5.0\ControlStatments.dll
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\obj\Debug\net5.0\ref\ControlStatments.dll
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\obj\Debug\net5.0\ControlStatments.pdb
+C:\Users\kalec\OneDrive\Documents\Visual Studio 2022\Exercises\ControlStatments\obj\Debug\net5.0\ControlStatments.genruntimeconfig.cache
