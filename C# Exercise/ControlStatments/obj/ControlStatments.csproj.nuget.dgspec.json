@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kalec\\OneDrive\\Documents\\Visual Studio 2022\\Exercises\\ControlStatments\\ControlStatments.csproj": {}
+    "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\ControlStatments\\ControlStatments.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kalec\\OneDrive\\Documents\\Visual Studio 2022\\Exercises\\ControlStatments\\ControlStatments.csproj": {
+    "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\ControlStatments\\ControlStatments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalec\\OneDrive\\Documents\\Visual Studio 2022\\Exercises\\ControlStatments\\ControlStatments.csproj",
+        "projectUniqueName": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\ControlStatments\\ControlStatments.csproj",
         "projectName": "ControlStatments",
-        "projectPath": "C:\\Users\\kalec\\OneDrive\\Documents\\Visual Studio 2022\\Exercises\\ControlStatments\\ControlStatments.csproj",
+        "projectPath": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\ControlStatments\\ControlStatments.csproj",
         "packagesPath": "C:\\Users\\kalec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalec\\OneDrive\\Documents\\Visual Studio 2022\\Exercises\\ControlStatments\\obj\\",
+        "outputPath": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\ControlStatments\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

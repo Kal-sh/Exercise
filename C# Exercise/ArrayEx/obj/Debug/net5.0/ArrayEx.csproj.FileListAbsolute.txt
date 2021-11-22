@@ -1,0 +1,16 @@
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\bin\Debug\net5.0\ArrayEx.exe
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\bin\Debug\net5.0\ArrayEx.deps.json
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\bin\Debug\net5.0\ArrayEx.runtimeconfig.json
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\bin\Debug\net5.0\ArrayEx.runtimeconfig.dev.json
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\bin\Debug\net5.0\ArrayEx.dll
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\bin\Debug\net5.0\ref\ArrayEx.dll
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\bin\Debug\net5.0\ArrayEx.pdb
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\obj\Debug\net5.0\ArrayEx.csproj.AssemblyReference.cache
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\obj\Debug\net5.0\ArrayEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\obj\Debug\net5.0\ArrayEx.AssemblyInfoInputs.cache
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\obj\Debug\net5.0\ArrayEx.AssemblyInfo.cs
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\obj\Debug\net5.0\ArrayEx.csproj.CoreCompileInputs.cache
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\obj\Debug\net5.0\ArrayEx.dll
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\obj\Debug\net5.0\ref\ArrayEx.dll
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\obj\Debug\net5.0\ArrayEx.pdb
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\ArrayEx\obj\Debug\net5.0\ArrayEx.genruntimeconfig.cache
