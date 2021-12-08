@@ -1,0 +1,6 @@
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.AssemblyReference.cache
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\$safeprojectname$.Properties.Resources.resources
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.cache
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.CoreCompileInputs.cache
