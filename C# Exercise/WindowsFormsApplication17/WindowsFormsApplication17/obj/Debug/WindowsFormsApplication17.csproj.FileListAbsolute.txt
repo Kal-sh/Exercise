@@ -4,3 +4,8 @@ C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApp
 C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\$safeprojectname$.Properties.Resources.resources
 C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.cache
 C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.CoreCompileInputs.cache
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\$safeprojectname$.exe.config
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\$safeprojectname$.exe
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\$safeprojectname$.pdb
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\$safeprojectname$.exe
+C:\Users\kalec\OneDrive\Documents\GitHub\C# Exercise\C# Exercise\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\$safeprojectname$.pdb

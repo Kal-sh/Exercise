@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace $safeprojectname$.Properties
+namespace WindowsFormsApplication17.Properties
 {
 
 
