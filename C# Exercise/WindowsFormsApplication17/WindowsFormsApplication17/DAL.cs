@@ -11,7 +11,22 @@ namespace WindowsFormsApplication17
 {
     internal class DAL
     {
-        private string constr = "SERVER=________; Database=_______;integrated Security=true;";
+        private string constr = "SERVER=KAL; Database=sql;integrated Security=true;";
+
+        public DataTable getUer(string fn, string ln)
+        {
+            SqlConnection con = new SqlConnection(constr);
+            SqlDataAdapter adapter = new SqlDataAdapter("spGetUser", con);
+
+            adapter.SelectCommand.CommandType = CommandType.StoredProcedure;
+            adapter.SelectCommand.Parameters.AddWithValue("@fn", fn);
+            adapter.SelectCommand.Parameters.AddWithValue("@ln", ln);
+
+            DataSet ds = new DataSet();
+            adapter.Fill(ds, "tUser");
+            DataTable dt = ds.Tables["tUser"];
+            return dt;
+        }
 
         public void saveUser(user u)
         {
@@ -26,6 +41,7 @@ namespace WindowsFormsApplication17
                 cmd.Parameters.AddWithValue("uName", u.Username);
                 cmd.Parameters.AddWithValue("@pwd", u.pwd);
                 cmd.Parameters.AddWithValue("cBox", u.comboBox1);
+                cmd.Parameters.AddWithValue("@photo", photo);
 
                 int rowAffected = cmd.ExecuteNonQuery();
                 if (rowAffected > 0)

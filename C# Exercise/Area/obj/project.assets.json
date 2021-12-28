@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\StringEx\\StringEx.csproj",
-      "projectName": "StringEx",
-      "projectPath": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\StringEx\\StringEx.csproj",
+      "projectUniqueName": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\Area\\Area.csproj",
+      "projectName": "Area",
+      "projectPath": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\Area\\Area.csproj",
       "packagesPath": "C:\\Users\\kalec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\StringEx\\obj\\",
+      "outputPath": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\Area\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kalec\\AppData\\Roaming\\NuGet\\NuGet.Config",

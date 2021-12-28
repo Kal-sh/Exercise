@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V0IMWPiFsVMofbBo2OT9ShOnD9mH09BkShqOeJ/3x+1VzEPW0BLilV2l8NfbBHbKpqykey3tGZLHu7Sc75Uzew==",
+  "dgSpecHash": "PRzT4NkB7bl1s03qWmQyfhLV4ccaB56EU3oSouTmmH/NAY8SQ7XHjp82NUtUwmwcs415BQtFl9cKmhtTLw0yvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\StringEx\\StringEx.csproj",
+  "projectFilePath": "C:\\Users\\kalec\\OneDrive\\Documents\\GitHub\\C# Exercise\\C# Exercise\\Area\\Area.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
     "C:\\Users\\kalec\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
