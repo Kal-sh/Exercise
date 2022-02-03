@@ -1,0 +1,26 @@
+c:\users\rodas\documents\visual studio 2015\Projects\registrationForm\registrationForm\bin\Debug\registrationForm.exe.config
+c:\users\rodas\documents\visual studio 2015\Projects\registrationForm\registrationForm\obj\Debug\registrationForm.csprojResolveAssemblyReference.cache
+c:\users\rodas\documents\visual studio 2015\Projects\registrationForm\registrationForm\obj\Debug\registrationForm.Form1.resources
+c:\users\rodas\documents\visual studio 2015\Projects\registrationForm\registrationForm\obj\Debug\registrationForm.Properties.Resources.resources
+c:\users\rodas\documents\visual studio 2015\Projects\registrationForm\registrationForm\obj\Debug\registrationForm.csproj.GenerateResource.Cache
+c:\users\rodas\documents\visual studio 2015\Projects\registrationForm\registrationForm\bin\Debug\registrationForm.exe
+c:\users\rodas\documents\visual studio 2015\Projects\registrationForm\registrationForm\bin\Debug\registrationForm.pdb
+c:\users\rodas\documents\visual studio 2015\Projects\registrationForm\registrationForm\obj\Debug\registrationForm.exe
+c:\users\rodas\documents\visual studio 2015\Projects\registrationForm\registrationForm\obj\Debug\registrationForm.pdb
+c:\users\rodas\documents\visual studio 2015\Projects\registrationForm\registrationForm\obj\Debug\registrationForm.home.resources
+C:\Users\Rodas\Documents\Visual Studio 2015\Projects\registrationForm\registrationForm\obj\Debug\registrationForm.odds.resources
+C:\Users\Rodas\Documents\Visual Studio 2015\Projects\registrationForm\registrationForm\obj\Debug\registrationForm.odds_UserControl.resources
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\bin\Debug\registrationForm.exe.config
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\bin\Debug\registrationForm.exe
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\bin\Debug\registrationForm.pdb
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.csproj.AssemblyReference.cache
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.Form1.resources
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.home.resources
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.odds.resources
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.odds_UserControl.resources
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.Properties.Resources.resources
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.csproj.GenerateResource.cache
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.csproj.CoreCompileInputs.cache
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.exe
+C:\Users\kalec\Documents\Github\Exercise\C# Exercise\registrationForm\registrationForm\obj\Debug\registrationForm.pdb
