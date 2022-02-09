@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[BookingTbl]
+(
+	[Bnum] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [CId] INT NOT NULL, 
+    [Cname] VARCHAR(30) NOT NULL, 
+    [RId] INT NOT NULL, 
+    [Rnum] VARCHAR(30) NOT NULL, 
+    [Rtype] VARCHAR(30) NOT NULL, 
+    [Bcost] INT NOT NULL, 
+    CONSTRAINT [FK1] FOREIGN KEY ([CId]) REFERENCES [CustomerTbl]([CId]),
+	CONSTRAINT [FK1] FOREIGN KEY ([RId]) REFERENCES [RoomTbl]([RId])
+
+)
